@@ -179,20 +179,18 @@ header{
         display:flex;
         align-items: start;
         justify-content:center;
-        overflow: hidden;
-        }
+      
+        background-image: url(../assets/banner1.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 700px 550px;
+      }
        
         
        
         
        
-        .banner1-1{
-        width:800px;
-        height: 550px;
-        position:absolute;
        
-        
-        }
     
         .monte{
           width:290px;
@@ -266,24 +264,20 @@ header{
       .banner2{
         width:100vw;
         height: 600px;
-       
         display:flex;
         align-items: center;
         justify-content:center;
          box-shadow: 1px 1px 10px 10px #2c003b;
          overflow: hidden;
+
+         background-image: url(../assets/banner2.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 500px 600px;
         }
          
        
        
-    
-        .banner2-2{
-        width:450px;
-        height: 600px;
-        position: absolute;
-       
-        
-        }
     
     
         .texto{

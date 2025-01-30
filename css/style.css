@@ -175,18 +175,18 @@ padding-left: 30px;
       display:flex;
       align-items: start;
       justify-content:center;
+
+      background-image: url(../assets/banner1.png);
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: 100vw 100vh;
       }
      
       
      
       
      
-      .banner1-1{
-      width:100%;
-      height: 100%;
      
-      
-      }
   
       .monte{
       width:580px;
@@ -259,17 +259,17 @@ padding-left: 30px;
       align-items: center;
       justify-content:center;
        box-shadow: 1px 1px 10px 10px #2c003b;
+      
+       background-image: url(../assets/banner2.png);
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: 100vw 100vh;
       }
        
      
      
   
-      .banner2-2{
-      width:100%;
-      height: 100%;
-     
-      
-      }
+   
   
   
       .texto{
