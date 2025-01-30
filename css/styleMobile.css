@@ -175,7 +175,7 @@ header{
       .banner1{
   
         width: 100vw;
-        height: 550px;
+        height: 80vh;
         display:flex;
         align-items: start;
         justify-content:center;
@@ -183,7 +183,7 @@ header{
         background-image: url(../assets/banner1.png);
         background-repeat: no-repeat;
         background-position: center;
-        background-size: 700px 550px;
+        background-size: 190% 100%;
       }
        
         
@@ -263,7 +263,7 @@ header{
           
       .banner2{
         width:100vw;
-        height: 600px;
+        height: 80vh;
         display:flex;
         align-items: center;
         justify-content:center;
@@ -273,7 +273,7 @@ header{
          background-image: url(../assets/banner2.png);
         background-repeat: no-repeat;
         background-position: center;
-        background-size: 500px 600px;
+        background-size: 130% 100%;
         }
          
        
@@ -284,9 +284,9 @@ header{
           position:absolute;
          right: 10px;
           width:65vw;
-          height: 550px;
-          font-size:1em;
-          top:650px;
+          height: 75vh;
+          font-size:1.06em;
+          top:670px;
           display: flex;
           align-items: center;
           justify-content: space-around;
