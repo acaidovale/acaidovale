@@ -136,7 +136,7 @@ padding-left: 3px;
  
 body{
   overflow-x: hidden;
-  height: 230vh;
+  height: 240vh;
   display:flex;
   flex-direction:column;
   background-color:#6b1b6f;
