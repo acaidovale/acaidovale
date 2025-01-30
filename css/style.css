@@ -275,9 +275,9 @@ padding-left: 30px;
       .texto{
       position:absolute;
       right:170px;
-      width:32vw;
-      height: 92vh;
-      font-size:1.5em;
+      width:40vw;
+      height: 95vh;
+      font-size:1.7em;
       text-align:start;
       display:flex;
       flex-direction: column;
@@ -303,7 +303,7 @@ padding-left: 30px;
 
       footer{
         width: 100vw;
-      height:100vh;
+      height:80vh;
       display:flex;
       align-items: center;
       justify-content:space-around;

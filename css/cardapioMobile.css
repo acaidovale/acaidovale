@@ -147,7 +147,7 @@ body{
    
   .fundo{
     position:relative;
-    height:250vh;
+    height:100%;
     width:100vw;
    z-index:2;
     box-shadow: 1px 1px 10px 5px #2c003b;
